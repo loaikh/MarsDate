@@ -16,7 +16,8 @@ the Mars Sol Date (MSD) and the Martian Coordinated Time (MTC).
 
 ### Who can run  this Application?
 - **Extract the compress file**
-- **composer update**
+- **cd BMO Folder**
+- **#composer update**
 - **Run the application with Port 8000 using #php artisan serve**
 - **on postman Application Please install the Export file PostmanTest/webpack.mix.js**
 
